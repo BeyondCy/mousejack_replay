@@ -93,5 +93,5 @@ optional arguments:
 
 右键点击演示视频：http://v.youku.com/v_show/id_XMTUwMTQ3Njk4NA==.html
 
-数据重放演示视频：
+数据重放演示视频：http://v.youku.com/v_show/id_XMTUwMzgwMTQ1Ng==.html
 
